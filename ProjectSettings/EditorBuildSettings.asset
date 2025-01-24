@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Basic_Face_Filter.unity
     guid: c05aeaabcd88fc94fa7f7ee90438debe
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/InteractiveFilter.unity
     guid: 52460cb88b9d6b646a6040441257ea93
+  - enabled: 1
+    path: Assets/Scenes/ARMarker.unity
+    guid: ef07bb6b82ac2e4418ee4300cbde8919
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
